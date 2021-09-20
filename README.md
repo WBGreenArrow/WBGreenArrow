@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="logo-Bootstrap">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="logo-github">
 
-</div></br>
+</div>
 
 ### ⚡ GitHub Stars
 
