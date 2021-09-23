@@ -8,7 +8,6 @@
 [![discordl](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/wellison-e-brito-67a237210/)
 
 ### 🚀💻 Technologies & Tools
-
 <div style="display:inline-block"><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-HTML">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-CSS">
