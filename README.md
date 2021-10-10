@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+
 ### Hi! 👋 I'm Wellyson E Brito
 
 <p>❤️ - I'm passionate about technology and programming</p>
