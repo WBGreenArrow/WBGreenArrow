@@ -1,10 +1,9 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 ### Hi! 👋 I'm Wellyson E Brito
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-
-<p>❤️ - I'm passionate about technology and programming</p>
-<p> - I'm currently studying front-end web development 📚</p>
+<p align="left">❤️ - I'm passionate about technology and programming</p>
+<p align="left"> - I'm currently studying front-end web development 📚</p>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellison-e-brito-67a237210/)
 <a href="mailto:wellysone.brito@gmail.com">
