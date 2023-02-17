@@ -3,7 +3,7 @@
 ### Hi! 👋 I'm Wellyson E Brito
 
 <p align="left">❤️ - I'm passionate about technology and programming</p>
-<p align="left"> - I'm currently studying front-end web development 📚</p>
+<p align="left"> - I'm currently studying web development - fullstack 📚</p>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellison-brito-67a237210/)
 <a href="mailto:wellysone.brito@gmail.com">
