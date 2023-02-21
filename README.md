@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-### Hi! 👋 my name is Wellyson E Brito
+### Hey! 👋 my name is Wellyson E Brito
 
 <p align="left">❤️ - I'm passionate about technology and programming</p>
 <p align="left"> - I'm currently studying web development - fullstack 📚</p>
