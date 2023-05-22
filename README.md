@@ -3,7 +3,12 @@
 ### Hey! 👋 my name is Wellyson E Brito
 
 <p align="left">❤️ - I'm passionate about technology and programming</p>
-<p align="left"> - I'm currently studying web development - fullstack 📚</p>
+
+<p align="left"> With a degree in Analysis and Systems Development and a solid 1-year experience in full stack web development, I'm a professional constantly seeking stimulating challenges. 👨‍💻 </p>
+
+<p align="left"> Curious about what's currently exciting me? I'm dedicating my time to further enhance my skills in Fullstack Web Development, focusing on cutting-edge technologies such as NodeJs, TypeScript, and NextJs. I'm ready to dive headfirst into thrilling projects and explore the full potential of these powerful tools! 💪 </p>
+
+<p align="left"> If you're looking for someone who stays ahead of trends and is eager to take on new challenges with passion and determination, then you're in the right place. Let's create something amazing together! 🚀 </p>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellison-brito-67a237210/)
 <a href="mailto:wellysone.brito@gmail.com">
